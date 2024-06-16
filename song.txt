@@ -1,3 +1,8 @@
 I finally found where i belong
 my hopes and my dreams all at me along
+<<<<<<< HEAD
 second couplet
+=======
+second couplet
+Third couplet
+>>>>>>> third_couplet
